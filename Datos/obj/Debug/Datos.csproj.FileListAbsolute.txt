@@ -1,0 +1,38 @@
+D:\Documentos\Visual Studio\D-Encriptador_Proto\Datos\bin\Debug\Datos.dll
+D:\Documentos\Visual Studio\D-Encriptador_Proto\Datos\bin\Debug\Datos.pdb
+D:\Documentos\Visual Studio\D-Encriptador_Proto\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+D:\Documentos\Visual Studio\D-Encriptador_Proto\Datos\obj\Debug\Datos.dll
+D:\Documentos\Visual Studio\D-Encriptador_Proto\Datos\obj\Debug\Datos.pdb
+D:\Documentos\Visual Studio\D-Encriptador_Proto\Datos\bin\Debug\BouncyCastle.Crypto.dll
+D:\Documentos\Visual Studio\D-Encriptador_Proto\Datos\bin\Debug\Google.Protobuf.dll
+D:\Documentos\Visual Studio\D-Encriptador_Proto\Datos\bin\Debug\K4os.Compression.LZ4.dll
+D:\Documentos\Visual Studio\D-Encriptador_Proto\Datos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Documentos\Visual Studio\D-Encriptador_Proto\Datos\bin\Debug\K4os.Hash.xxHash.dll
+D:\Documentos\Visual Studio\D-Encriptador_Proto\Datos\bin\Debug\MySql.Data.dll
+D:\Documentos\Visual Studio\D-Encriptador_Proto\Datos\bin\Debug\Ubiety.Dns.Core.dll
+D:\Documentos\Visual Studio\D-Encriptador_Proto\Datos\bin\Debug\Zstandard.Net.dll
+D:\Documentos\Visual Studio\D-Encriptador_Proto\Datos\bin\Debug\Renci.SshNet.dll
+D:\Documentos\Visual Studio\D-Encriptador_Proto\Datos\bin\Debug\System.Buffers.dll
+D:\Documentos\Visual Studio\D-Encriptador_Proto\Datos\bin\Debug\System.Memory.dll
+D:\Documentos\Visual Studio\D-Encriptador_Proto\Datos\bin\Debug\System.Numerics.Vectors.dll
+D:\Documentos\Visual Studio\D-Encriptador_Proto\Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documentos\Visual Studio\D-Encriptador_Proto\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\Documentos\Visual Studio\D-Encriptador Publico\Datos\bin\Debug\Datos.dll
+D:\Documentos\Visual Studio\D-Encriptador Publico\Datos\bin\Debug\Datos.pdb
+D:\Documentos\Visual Studio\D-Encriptador Publico\Datos\bin\Debug\BouncyCastle.Crypto.dll
+D:\Documentos\Visual Studio\D-Encriptador Publico\Datos\bin\Debug\Google.Protobuf.dll
+D:\Documentos\Visual Studio\D-Encriptador Publico\Datos\bin\Debug\K4os.Compression.LZ4.dll
+D:\Documentos\Visual Studio\D-Encriptador Publico\Datos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Documentos\Visual Studio\D-Encriptador Publico\Datos\bin\Debug\K4os.Hash.xxHash.dll
+D:\Documentos\Visual Studio\D-Encriptador Publico\Datos\bin\Debug\MySql.Data.dll
+D:\Documentos\Visual Studio\D-Encriptador Publico\Datos\bin\Debug\Ubiety.Dns.Core.dll
+D:\Documentos\Visual Studio\D-Encriptador Publico\Datos\bin\Debug\Zstandard.Net.dll
+D:\Documentos\Visual Studio\D-Encriptador Publico\Datos\bin\Debug\Renci.SshNet.dll
+D:\Documentos\Visual Studio\D-Encriptador Publico\Datos\bin\Debug\System.Buffers.dll
+D:\Documentos\Visual Studio\D-Encriptador Publico\Datos\bin\Debug\System.Memory.dll
+D:\Documentos\Visual Studio\D-Encriptador Publico\Datos\bin\Debug\System.Numerics.Vectors.dll
+D:\Documentos\Visual Studio\D-Encriptador Publico\Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documentos\Visual Studio\D-Encriptador Publico\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+D:\Documentos\Visual Studio\D-Encriptador Publico\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\Documentos\Visual Studio\D-Encriptador Publico\Datos\obj\Debug\Datos.dll
+D:\Documentos\Visual Studio\D-Encriptador Publico\Datos\obj\Debug\Datos.pdb

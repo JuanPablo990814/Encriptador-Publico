@@ -1,0 +1,10 @@
+D:\Documentos\Visual Studio\D-Encriptador_Proto\Algoritmos\bin\Debug\Algoritmos.dll
+D:\Documentos\Visual Studio\D-Encriptador_Proto\Algoritmos\bin\Debug\Algoritmos.pdb
+D:\Documentos\Visual Studio\D-Encriptador_Proto\Algoritmos\obj\Debug\Algoritmos.dll
+D:\Documentos\Visual Studio\D-Encriptador_Proto\Algoritmos\obj\Debug\Algoritmos.pdb
+D:\Documentos\Visual Studio\D-Encriptador_Proto\Algoritmos\obj\Debug\Algoritmos.csprojAssemblyReference.cache
+D:\Documentos\Visual Studio\D-Encriptador Publico\Algoritmos\bin\Debug\Algoritmos.dll
+D:\Documentos\Visual Studio\D-Encriptador Publico\Algoritmos\bin\Debug\Algoritmos.pdb
+D:\Documentos\Visual Studio\D-Encriptador Publico\Algoritmos\obj\Debug\Algoritmos.csprojAssemblyReference.cache
+D:\Documentos\Visual Studio\D-Encriptador Publico\Algoritmos\obj\Debug\Algoritmos.dll
+D:\Documentos\Visual Studio\D-Encriptador Publico\Algoritmos\obj\Debug\Algoritmos.pdb
